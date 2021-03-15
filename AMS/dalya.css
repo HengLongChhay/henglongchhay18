@@ -1,0 +1,36 @@
+.bd-bottom.is-bd-light {
+
+    border-bottom: 1px solid rgba(0,0,0,.15) ;
+
+}
+
+.is-sticky {
+    position: sticky;
+    position: static;
+    top: 0px;
+}
+
+.side-sticky {
+    position: fixed;
+    /* z-index: 1;
+    overflow-x: hidden; */
+}
+
+
+
+.small-side-nav {
+    width: 11%;
+}
+
+.p-icon-top {
+    padding-top: 2px;
+}
+
+
+.rounded-profile {
+    margin-top: 21px;
+    margin-right: 13px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
