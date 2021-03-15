@@ -1,0 +1,67 @@
+
+
+.bd-bottom.is-bd-light {
+
+    border-bottom: 1px solid rgba(0,0,0,.15) ;
+
+}
+
+.is-sticky {
+    position: sticky;
+    position: static;
+    top: 0px;
+}
+
+.side-sticky {
+    position: fixed;
+    /* z-index: 1;
+    overflow-x: hidden; */
+}
+
+
+
+.small-side-nav {
+    width: 11%;
+}
+
+.p-icon-top {
+    padding-top: 2px;
+}
+
+
+.rounded-profile {
+    margin-top: 21px;
+    margin-right: 13px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.fixed-form {
+
+    position: fixed;
+    top: 193px;
+    margin-left: 42%;
+    width: 100%;
+    height: 100%;
+}
+.is-full-width {
+    width: 100%;
+
+}
+.small-pic {
+    width: 75px;
+    height: 75px;
+    border-radius: 10%;
+}
+
+.ml-main {
+    margin-left: 3.5%;
+    margin-right: -90px;
+    }
+.ml-main.is-smaller {
+    margin-left: 16%;
+}
+.ml-main.is-smaller.is-left-form {
+    margin-left: 12%;
+}
