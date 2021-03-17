@@ -41,7 +41,7 @@
 
     position: fixed;
     top: 193px;
-    margin-left: 42%;
+    margin-left: 47.5%;
     width: 100%;
     height: 100%;
 }
@@ -49,10 +49,15 @@
     width: 100%;
 
 }
-.small-pic {
+
+.img-raduis {
+    border-radius: 5%;
+}
+.img-raduis.small-pic {
     width: 75px;
     height: 75px;
     border-radius: 10%;
+
 }
 
 .ml-main {
@@ -62,6 +67,62 @@
 .ml-main.is-smaller {
     margin-left: 16%;
 }
+.ml-main.is-smaller.borrow-showed-img {
+    margin-left: 11.5%;
+}
+
 .ml-main.is-smaller.is-left-form {
     margin-left: 12%;
+}
+.btn-group {
+    width: 100%;
+}
+
+.btn-group .btn {
+    width: 104%;
+}
+.box-show-three {
+    max-height: 480px;
+}
+.overflow-scroll {
+    overflow: scroll;
+}
+.float-left {
+    margin-left: 25%;
+}
+.extra-width-botton {
+    width: 205px;
+}
+.float-lefter{
+    margin-left: 58%;
+}
+.float-leftest {
+    margin-left: 85%;
+}
+.border-row{
+    border: 1px solid rgba(0,0,0,.2);
+}
+
+
+/* .border-redius-top {
+    border-radius: 10px 0px 0px 0px;
+}
+.border-redius-right {
+    border-radius: 0px 10px 0px 0px;
+} */
+.border-redius-bot {
+    border-radius: 0px 0px 10px 10px;
+}
+.border-row.border-redius {
+    border-radius: 10px;
+}
+.is-main-color {
+    color: #485FC7;
+}
+.is-main-bg-color {
+    background-color: #485FC7;
+}
+button.is-main-bg-color {
+    background-color: #485FC7;
+    color: white;
 }
